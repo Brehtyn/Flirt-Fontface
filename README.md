@@ -16,7 +16,7 @@ Floriana Hanna was a beautiful individual. Her personable attitude earned the ni
 ## Screenshots
 
 ![Handwriting Example](https://raw.githubusercontent.com/Brehtyn/Flirt-Fontface/refs/heads/main/Snapchat-2081041664.jpg)
-![Font Screenshot](https://raw.githubusercontent.com/Brehtyn/Flirt-Fontface/refs/heads/main/screenshot.png)
+![Font Screenshot](https://raw.githubusercontent.com/Brehtyn/Flirt-Fontface/refs/heads/main/screenshot.jpg)
 
 
 ## Installation
