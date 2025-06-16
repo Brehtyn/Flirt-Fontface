@@ -22,7 +22,7 @@ Floriana Hanna was a beautiful individual. Her personable attitude earned the ni
 ## Installation
 
 #### Windows OS
-1) Right clicked the Zipped file and extract it to a folder on your desktop. Ignore this step if you downloaded the files directly.
+1. Right clicked the Zipped file and extract it to a folder on your desktop. Ignore this step if you downloaded the files directly.
 2. Find the Typeface.tff file.
 3. Right click the file. 
 4. Click the 'Install' option.
@@ -30,12 +30,12 @@ Floriana Hanna was a beautiful individual. Her personable attitude earned the ni
 
 #### Mac OS
 
-1) Right clicked the Zipped file and extract it to a folder on your desktop. Ignore this step if you downloaded the files directly.
-2) Find the Typeface Mac.ttf file.
-3) Open the Fontbook Application.
-4) Choose File > Add Fonts to Current User. 
-5) Drag the font file to the Font Book app icon in the Dock
-6) Click the 'Install' option.
+1. Right clicked the Zipped file and extract it to a folder on your desktop. Ignore this step if you downloaded the files directly.
+2. Find the Typeface Mac.ttf file.
+3. Open the Fontbook Application.
+4. Choose File > Add Fonts to Current User. 
+5. Drag the font file to the Font Book app icon in the Dock
+6. Click the 'Install' option.
 
 #### Linux Distrubtions
 You can figure it out.
